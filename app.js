@@ -4,7 +4,7 @@ $(document).ready(function () {
         url = '',
         // Client information
         instagram = {
-            clientID: 'd42cff59ba674c179db5dc2e04c31a2b',
+            clientID: '0c16edcd249a46468fb20afd4c31fd44',
             apiHost: 'https://api.instagram.com'
         }
         //Get pictures
